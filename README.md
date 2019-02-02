@@ -1,2 +1,2 @@
-# neighbor_api
-Neighbor App Server
+Neighbor API Server
+The server for all rest apis of NeighborApp
